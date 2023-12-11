@@ -1,0 +1,5 @@
+{
+    "user_message": "String - the message from the user",
+    "bot_response": "String - the response from the bot",
+    "context": "Dictionary - key-value pairs containing context information"
+}

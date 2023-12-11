@@ -1,0 +1,1075 @@
+[
+    {
+        "user_message": "Do you stock any Sony headphones?",
+        "bot_response": "Yes, we have Sony headphones. Please let me know your preferences like Color, Battery Life, Price ranges, and Connectivity.",
+        "context": {
+            "BrandInquiry": "Sony"
+        }
+    },
+    {
+        "user_message": "Do you have these headphones in black?",
+        "bot_response": "Yes, we do have black headphones. Would you like to know about Battery Life, Price ranges, or Connectivity?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Black"
+        }
+    },
+    {
+        "user_message": "Do these earbuds offer all-day battery life?",
+        "bot_response": "No, but they have a battery life of about 12 hours on a full charge. Would you like to know about other Price ranges or Connectivity options?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Black",
+            "BatteryLifeInquiry": "All-Day"
+        }
+    },
+    {
+        "user_message": "No, I need headphones which have a battery life more than 14 hours on full charge",
+        "bot_response": "Got it, then I recommend you to go with Skull-candy.",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Black",
+            "BatteryLifeInquiry": ">14Hours"
+        }
+    },
+    {
+        "user_message": "Ho great then, Can I find Skullcandy earbuds in your store?",
+        "bot_response": "Yes absolutely, Please let me know further details and preferences like Color, Battery Life, Price ranges, and Connectivity.",
+        "context": {
+            "BrandRecommendation": "Skull-candy",
+            "StockInquiry": "Available"
+        }
+    },
+    {
+        "user_message": "I need under 20$ and purple color",
+        "bot_response": "Sorry, in Skull-Candy we don’t have purple color that comes under 20$. However, we have a similar product in a different brand, Bose.",
+        "context": {
+            "BrandRecommendation": "Skull-candy",
+            "PriceRangeInquiry": "<20$",
+            "ColorInquiry": "Purple"
+        }
+    },
+    {
+        "user_message": "Do you have any wireless headphones from Skullcandy?",
+        "bot_response": "Yes, we have a variety of wireless Skullcandy headphones. Are you looking for a specific color or price range?",
+        "context": {
+            "BrandInquiry": "Skullcandy"
+        }
+    },
+    {
+        "user_message": "I'm looking for long-lasting battery life in earphones. Any suggestions?",
+        "bot_response": "Sure, we offer earphones from brands like JBL and Bose with extended battery life. Any particular color or price preference?",
+        "context": {
+            "BatteryLifeInquiry": "Extended"
+        }
+    },
+    {
+        "user_message": "Do you stock earbuds in the color turquoise?",
+        "bot_response": "Yes, we have turquoise earbuds available from multiple brands. Do you have a preferred brand or price range?",
+        "context": {
+            "ColorInquiry": "Turquoise"
+        }
+    },
+    {
+        "user_message": "Are there headphones available under $30?",
+        "bot_response": "Certainly! We have headphones from various brands within the $30 price range. Any specific color or battery life requirement?",
+        "context": {
+            "PriceRangeInquiry": "<30$"
+        }
+    },
+    {
+        "user_message": "Is the latest model of Beats headphones in stock?",
+        "bot_response": "Yes, the latest Beats headphones are in stock. Would you like to know about their color options or battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "StockInquiry": "Available"
+        }
+    },
+    {
+        "user_message": "I heard Sony has great battery life in their headphones. Is that true?",
+        "bot_response": "Yes, Sony headphones are known for their excellent battery life. Are you interested in a specific model or color?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "BatteryLifeInquiry": "Great"
+        }
+    },
+    {
+        "user_message": "Can you recommend headphones with vibrant colors?",
+        "bot_response": "Certainly! We have headphones in vibrant colors from brands like Skullcandy and JBL. Do you have a price range in mind?",
+        "context": {
+            "ColorInquiry": "Vibrant",
+            "BrandRecommendation": "Various"
+        }
+    },
+    {
+        "user_message": "Do you have any Bose headphones in red?",
+        "bot_response": "Yes, we have red Bose headphones available. Would you like to know about their price or battery life?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "ColorInquiry": "Red"
+        }
+    },
+    {
+        "user_message": "Are there affordable wireless earphones with good battery life?",
+        "bot_response": "Absolutely! We offer affordable wireless earphones with impressive battery life. Are you looking for a specific brand or color?",
+        "context": {
+            "BatteryLifeInquiry": "Good",
+            "PriceRangeInquiry": "Affordable"
+        }
+    },
+    {
+        "user_message": "I need a pair of durable headphones. What brands do you recommend?",
+        "bot_response": "For durability, I recommend brands like Sennheiser and Sony. Do you have a preferred color or budget?",
+        "context": {
+            "BrandRecommendation": "Sennheiser, Sony"
+        }
+    },
+    {
+        "user_message": "I'm looking for pink earphones within a $50 range.",
+        "bot_response": "We have a selection of pink earphones under $50 from various brands. Any specific features you're looking for?",
+        "context": {
+            "ColorInquiry": "Pink",
+            "PriceRangeInquiry": "<50$"
+        }
+    },
+    {
+        "user_message": "Which brands offer the best battery life in earbuds?",
+        "bot_response": "Brands like Bose and JBL are known for earbuds with excellent battery life. Are you interested in a specific price range or color?",
+        "context": {
+            "BatteryLifeInquiry": "Excellent",
+            "BrandRecommendation": "Bose, JBL"
+        }
+    },
+    {
+        "user_message": "Do you have noise-cancelling headphones from Panasonic?",
+        "bot_response": "Yes, we offer noise-cancelling headphones from Panasonic. Would you like to know about the available colors or price?",
+        "context": {
+            "BrandInquiry": "Panasonic"
+        }
+    },
+    {
+        "user_message": "I need wireless earphones under $80. Any suggestions?",
+        "bot_response": "Certainly! We have wireless earphones from brands like Skullcandy and Sony under $80. Any preferred color or battery life requirement?",
+        "context": {
+            "PriceRangeInquiry": "<80$",
+            "BrandRecommendation": "Skullcandy, Sony"
+        }
+    },
+    {
+        "user_message": "What colors are available for JBL earbuds?",
+        "bot_response": "Our JBL earbuds come in a variety of colors including black, blue, and red. Interested in a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "ColorInquiry": "Various"
+        }
+    },
+    {
+        "user_message": "Can I get durable earphones with long battery life?",
+        "bot_response": "Yes, brands like Sennheiser and Bose offer durable earphones with long battery life. Do you have a color preference or budget?",
+        "context": {
+            "BatteryLifeInquiry": "Long",
+            "BrandRecommendation": "Sennheiser, Bose"
+        }
+    },
+    {
+        "user_message": "Are Beats headphones available in green?",
+        "bot_response": "We do have Beats headphones in green. Would you like to know about their battery life or specific price ranges?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "ColorInquiry": "Green"
+        }
+    },
+    {
+        "user_message": "Do you stock budget-friendly Sony headphones?",
+        "bot_response": "Yes, we have a range of budget-friendly Sony headphones. Are you looking for a specific color or battery life?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "PriceRangeInquiry": "BudgetFriendly"
+        }
+    },
+    {
+        "user_message": "I'm searching for headphones with a battery life over 15 hours.",
+        "bot_response": "We offer headphones from brands like Bose and JBL with battery life over 15 hours. Any preferred color or price range?",
+        "context": {
+            "BatteryLifeInquiry": ">15Hours",
+            "BrandRecommendation": "Bose, JBL"
+        }
+    },
+    {
+        "user_message": "What are my options for Skullcandy headphones under $100?",
+        "bot_response": "We have Skullcandy headphones available under $100 in various colors. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "PriceRangeInquiry": "<100$"
+        }
+    },
+    {
+        "user_message": "Are there any wireless headphones in red under $150?",
+        "bot_response": "Yes, we have red wireless headphones from brands like Sony and Beats under $150. Any particular battery life you're looking for?",
+        "context": {
+            "ColorInquiry": "Red",
+            "PriceRangeInquiry": "<150$",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "I prefer headphones from Philips. What color options do you have?",
+        "bot_response": "Our Philips headphones are available in colors like black, white, and blue. Are you looking for a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "Philips",
+            "ColorInquiry": "Various"
+        }
+    },
+    {
+        "user_message": "What budget-friendly earbuds do you recommend for long battery life?",
+        "bot_response": "For long battery life in a budget-friendly range, I recommend JBL and Skullcandy earbuds. Do you have a color preference?",
+        "context": {
+            "BatteryLifeInquiry": "Long",
+            "PriceRangeInquiry": "BudgetFriendly",
+            "BrandRecommendation": "JBL, Skullcandy"
+        }
+    },
+    {
+        "user_message": "Can I get over-ear headphones in blue for under $200?",
+        "bot_response": "Certainly! We have over-ear headphones in blue from brands like Sennheiser and Bose under $200. Interested in their battery life?",
+        "context": {
+            "ColorInquiry": "Blue",
+            "PriceRangeInquiry": "<200$",
+            "TypeInquiry": "Over-Ear"
+        }
+    },
+    {
+        "user_message": "Do you have any pink wireless earphones available?",
+        "bot_response": "Yes, we offer pink wireless earphones from various brands. Are you interested in a specific price range or battery life?",
+        "context": {
+            "ColorInquiry": "Pink",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "I'm looking for durable Beats headphones. What options do I have?",
+        "bot_response": "Our durable Beats headphones are available in various colors and price ranges. Would you like to know about battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "FeatureInquiry": "Durable"
+        }
+    },
+    {
+        "user_message": "Are there any earphones with exceptional battery life under $100?",
+        "bot_response": "Yes, brands like Sony and JBL offer earphones with exceptional battery life under $100. Do you have a color preference?",
+        "context": {
+            "BatteryLifeInquiry": "Exceptional",
+            "PriceRangeInquiry": "<100$",
+            "BrandRecommendation": "Sony, JBL"
+        }
+    },
+    {
+        "user_message": "I need a pair of Sennheiser headphones. What's available in green?",
+        "bot_response": "We have green Sennheiser headphones in various models. Interested in learning about their price and battery life?",
+        "context": {
+            "BrandInquiry": "Sennheiser",
+            "ColorInquiry": "Green"
+        }
+    },
+    {
+        "user_message": "What are the options for noise-cancelling headphones within $250?",
+        "bot_response": "We offer noise-cancelling headphones from Bose and Sony within $250, available in different colors. Any specific battery life requirement?",
+        "context": {
+            "FeatureInquiry": "Noise-Cancelling",
+            "PriceRangeInquiry": "<250$"
+        }
+    },
+    {
+        "user_message": "Do you have any budget-friendly earbuds in turquoise?",
+        "bot_response": "Yes, we have budget-friendly earbuds in turquoise from brands like Skullcandy and JBL. Would you like to know about their battery life?",
+        "context": {
+            "ColorInquiry": "Turquoise",
+            "PriceRangeInquiry": "BudgetFriendly"
+        }
+    },
+    {
+        "user_message": "I'm looking for Sony earbuds in black. Any suggestions?",
+        "bot_response": "Sure, we have black Sony earbuds in various price ranges. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Black"
+        }
+    },
+    {
+        "user_message": "Do you have wireless headphones in white under $200?",
+        "bot_response": "Yes, we offer white wireless headphones from brands like Beats and Bose under $200. Any specific battery life requirements?",
+        "context": {
+            "ColorInquiry": "White",
+            "PriceRangeInquiry": "<200$",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "What's available in Bose headphones with a long battery life?",
+        "bot_response": "Our Bose headphones come with long battery life, available in colors like black, silver, and blue. Interested in a particular price range?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "BatteryLifeInquiry": "Long"
+        }
+    },
+    {
+        "user_message": "Can I get JBL earphones in red with good battery life?",
+        "bot_response": "Certainly, we have red JBL earphones with good battery life. Would you like to know their price?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "ColorInquiry": "Red",
+            "BatteryLifeInquiry": "Good"
+        }
+    },
+    {
+        "user_message": "I'm interested in Skullcandy headphones. Do you have any in green?",
+        "bot_response": "Yes, we have Skullcandy headphones in green. Are you looking for a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "ColorInquiry": "Green"
+        }
+    },
+    {
+        "user_message": "Do you stock any affordable Panasonic earbuds?",
+        "bot_response": "We do have affordable Panasonic earbuds in various colors. Any particular battery life you're interested in?",
+        "context": {
+            "BrandInquiry": "Panasonic",
+            "PriceRangeInquiry": "Affordable"
+        }
+    },
+    {
+        "user_message": "I need wireless earphones with at least 15 hours of battery life. Any brand recommendations?",
+        "bot_response": "For wireless earphones with at least 15 hours of battery life, I recommend Sony or Bose. Do you have a color preference?",
+        "context": {
+            "BatteryLifeInquiry": ">15Hours",
+            "ConnectivityInquiry": "Wireless",
+            "BrandRecommendation": "Sony, Bose"
+        }
+    },
+    {
+        "user_message": "What options do I have for over-ear headphones in blue?",
+        "bot_response": "We offer over-ear headphones in blue from brands like Sennheiser and JBL. Interested in a specific price range or battery life?",
+        "context": {
+            "ColorInquiry": "Blue",
+            "TypeInquiry": "Over-Ear"
+        }
+    },
+    {
+        "user_message": "Can you suggest any pink earphones that are budget-friendly?",
+        "bot_response": "Sure, we have budget-friendly pink earphones from brands like Skullcandy and JBL. Would you like to know about their battery life?",
+        "context": {
+            "ColorInquiry": "Pink",
+            "PriceRangeInquiry": "BudgetFriendly"
+        }
+    },
+    {
+        "user_message": "I'm looking for durable headphones with good battery life. Any brand suggestions?",
+        "bot_response": "For durable headphones with good battery life, I recommend Bose and Sony. They are available in various colors and price ranges.",
+        "context": {
+            "FeatureInquiry": "Durable",
+            "BatteryLifeInquiry": "Good",
+            "BrandRecommendation": "Bose, Sony"
+        }
+    },
+    {
+        "user_message": "Are there any Beats headphones in matte black available?",
+        "bot_response": "Yes, we have Beats headphones in matte black. Are you interested in a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "ColorInquiry": "Matte Black"
+        }
+    },
+    {
+        "user_message": "I'm looking for Philips earphones in white, preferably wireless.",
+        "bot_response": "We offer Philips wireless earphones in white. Do you have a particular battery life or price range in mind?",
+        "context": {
+            "BrandInquiry": "Philips",
+            "ColorInquiry": "White",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "What kind of battery life can I expect from JBL earbuds?",
+        "bot_response": "JBL earbuds generally offer a battery life ranging from 12 to 24 hours. Are you interested in a specific model or color?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "BatteryLifeInquiry": "12-24Hours"
+        }
+    },
+    {
+        "user_message": "Do you have any budget-friendly Sony headphones in red?",
+        "bot_response": "Yes, we have budget-friendly red Sony headphones. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Red",
+            "PriceRangeInquiry": "BudgetFriendly"
+        }
+    },
+    {
+        "user_message": "I need durable earphones with long battery life. Any brand suggestions?",
+        "bot_response": "For durable earphones with long battery life, I recommend Sennheiser or Bose. Do you have a preferred color?",
+        "context": {
+            "FeatureInquiry": "Durable",
+            "BatteryLifeInquiry": "Long",
+            "BrandRecommendation": "Sennheiser, Bose"
+        }
+    },
+    {
+        "user_message": "Can you suggest some good wireless earbuds under $100?",
+        "bot_response": "Certainly, we have wireless earbuds from brands like JBL and Skullcandy under $100. Interested in any specific battery life or color?",
+        "context": {
+            "PriceRangeInquiry": "<100$",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "Are there any high-end headphones with excellent battery life?",
+        "bot_response": "We offer high-end headphones from Bose and Sony with excellent battery life. Any specific color or price range you're considering?",
+        "context": {
+            "PriceRangeInquiry": "HighEnd",
+            "BatteryLifeInquiry": "Excellent",
+            "BrandRecommendation": "Bose, Sony"
+        }
+    },
+    {
+        "user_message": "What are my options for green Skullcandy earphones?",
+        "bot_response": "We have several options for green Skullcandy earphones. Are you looking for a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "ColorInquiry": "Green"
+        }
+    },
+    {
+        "user_message": "I'm in search of affordable earbuds with over 10 hours of battery life.",
+        "bot_response": "We have affordable earbuds with over 10 hours of battery life from brands like JBL and Philips. Any color preference?",
+        "context": {
+            "PriceRangeInquiry": "Affordable",
+            "BatteryLifeInquiry": ">10Hours"
+        }
+    },
+    {
+        "user_message": "Do you have any Bose earphones in metallic finish?",
+        "bot_response": "Yes, we offer Bose earphones in various metallic finishes. Are you looking for a specific battery life or price range?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "FinishInquiry": "Metallic"
+        }
+    },
+    {
+        "user_message": "I'm looking for wireless headphones, preferably in navy blue. Any brand recommendations?",
+        "bot_response": "We have wireless headphones in navy blue from brands like Beats and Sony. Would you like to know about their battery life or price?",
+        "context": {
+            "ColorInquiry": "Navy Blue",
+            "ConnectivityInquiry": "Wireless",
+            "BrandRecommendation": "Beats, Sony"
+        }
+    },
+    {
+        "user_message": "Can I find earphones with a battery life of more than 15 hours in a price range under $50?",
+        "bot_response": "Yes, we offer earphones with over 15 hours of battery life under $50 from brands like JBL and Skullcandy. Any color preference?",
+        "context": {
+            "BatteryLifeInquiry": ">15Hours",
+            "PriceRangeInquiry": "<50$"
+        }
+    },
+    {
+        "user_message": "Are there any pink Beats headphones available?",
+        "bot_response": "Yes, we have pink Beats headphones. Are you interested in a specific price range or battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "ColorInquiry": "Pink"
+        }
+    },
+    {
+        "user_message": "I need Sony earbuds with a long battery life, preferably in black.",
+        "bot_response": "We have Sony earbuds in black with long battery life. Would you like to explore options within a specific price range?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "ColorInquiry": "Black",
+            "BatteryLifeInquiry": "Long"
+        }
+    },
+    {
+        "user_message": "What options do I have for Bose headphones under $200?",
+        "bot_response": "We have various Bose headphones under $200, featuring good battery life. Any particular color you're interested in?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "PriceRangeInquiry": "<200$"
+        }
+    },
+    {
+        "user_message": "Can I get Skullcandy headphones in vibrant colors?",
+        "bot_response": "Certainly! We offer Skullcandy headphones in vibrant colors like red, blue, and green. Any specific price range or battery life requirement?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "ColorInquiry": "Vibrant"
+        }
+    },
+    {
+        "user_message": "I'm looking for earphones with at least 12 hours of battery life in pastel colors.",
+        "bot_response": "We have earphones with over 12 hours of battery life in pastel colors from brands like JBL and Sony. Any price preference?",
+        "context": {
+            "BatteryLifeInquiry": ">12Hours",
+            "ColorInquiry": "Pastel"
+        }
+    },
+    {
+        "user_message": "Do you have any Sennheiser headphones with great battery life in a budget-friendly range?",
+        "bot_response": "Yes, we have Sennheiser headphones with great battery life in budget-friendly options. Are you looking for a specific color?",
+        "context": {
+            "BrandInquiry": "Sennheiser",
+            "PriceRangeInquiry": "BudgetFriendly",
+            "BatteryLifeInquiry": "Great"
+        }
+    },
+    {
+        "user_message": "What kind of battery life do Philips wireless earphones offer?",
+        "bot_response": "Philips wireless earphones typically offer a battery life ranging from 10 to 20 hours. Any specific model or color you're interested in?",
+        "context": {
+            "BrandInquiry": "Philips",
+            "BatteryLifeInquiry": "10-20Hours",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "Are there any luxury JBL headphones available?",
+        "bot_response": "Yes, we offer luxury JBL headphones. Would you like to know about their battery life or specific colors?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "PriceRangeInquiry": "Luxury"
+        }
+    },
+    {
+        "user_message": "I need wireless earbuds in matte black. Any brand suggestions?",
+        "bot_response": "We have matte black wireless earbuds from brands like Sony and Bose. Are you looking for any specific price range or battery life?",
+        "context": {
+            "ColorInquiry": "Matte Black",
+            "ConnectivityInquiry": "Wireless",
+            "BrandRecommendation": "Sony, Bose"
+        }
+    },
+    {
+        "user_message": "Do you have any Bose earphones available in bright colors under $100?",
+        "bot_response": "Yes, we offer Bose earphones in bright colors like red and blue under $100. Are you interested in their battery life?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "ColorInquiry": "Bright",
+            "PriceRangeInquiry": "<100$"
+        }
+    },
+    {
+        "user_message": "What are my options for Skullcandy headphones with extended battery life?",
+        "bot_response": "Our Skullcandy headphones offer extended battery life, available in various colors. Any specific price range you're considering?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "BatteryLifeInquiry": "Extended"
+        }
+    },
+    {
+        "user_message": "I'm looking for earphones in teal color. Any brand recommendations?",
+        "bot_response": "We have teal-colored earphones from brands like JBL and Beats. Do you have a preference for battery life or price?",
+        "context": {
+            "ColorInquiry": "Teal",
+            "BrandRecommendation": "JBL, Beats"
+        }
+    },
+    {
+        "user_message": "Can I find budget-friendly Sony headphones with good battery life?",
+        "bot_response": "Certainly! We offer budget-friendly Sony headphones with good battery life. Are you looking for a specific color?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "PriceRangeInquiry": "BudgetFriendly",
+            "BatteryLifeInquiry": "Good"
+        }
+    },
+    {
+        "user_message": "What options do I have for wireless JBL earbuds under $75?",
+        "bot_response": "We have a range of wireless JBL earbuds under $75, with varying battery life. Any color preferences?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "PriceRangeInquiry": "<75$",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "Are there any Sennheiser earphones in metallic finish with high battery life?",
+        "bot_response": "Yes, we offer Sennheiser earphones in metallic finishes with high battery life. Are you considering a specific price range?",
+        "context": {
+            "BrandInquiry": "Sennheiser",
+            "FinishInquiry": "Metallic",
+            "BatteryLifeInquiry": "High"
+        }
+    },
+    {
+        "user_message": "I need earbuds in pastel shades with long battery life. Any brand suggestions?",
+        "bot_response": "We have earbuds in pastel shades with long battery life from brands like Bose and Skullcandy. What price range are you looking at?",
+        "context": {
+            "ColorInquiry": "Pastel",
+            "BatteryLifeInquiry": "Long",
+            "BrandRecommendation": "Bose, Skullcandy"
+        }
+    },
+    {
+        "user_message": "Do you have Beats headphones in glossy finishes within $200?",
+        "bot_response": "Yes, we offer glossy Beats headphones within $200. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "FinishInquiry": "Glossy",
+            "PriceRangeInquiry": "<200$"
+        }
+    },
+    {
+        "user_message": "Can I find Panasonic headphones in vibrant orange?",
+        "bot_response": "Certainly, we have Panasonic headphones available in vibrant orange. Any specific battery life or price range you're interested in?",
+        "context": {
+            "BrandInquiry": "Panasonic",
+            "ColorInquiry": "Vibrant Orange"
+        }
+    },
+    {
+        "user_message": "I'm looking for earphones with a battery life of over 20 hours, preferably in black.",
+        "bot_response": "We have black earphones with over 20 hours of battery life from brands like JBL and Sennheiser. Any price range in mind?",
+        "context": {
+            "ColorInquiry": "Black",
+            "BatteryLifeInquiry": ">20Hours",
+            "BrandRecommendation": "JBL, Sennheiser"
+        }
+    },
+    {
+        "user_message": "What are my options for luxury Skullcandy headphones in red?",
+        "bot_response": "Our luxury Skullcandy headphones in red offer advanced features and long battery life. Would you like to know the price?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "ColorInquiry": "Red",
+            "PriceRangeInquiry": "Luxury"
+        }
+    },
+    {
+        "user_message": "Do you have any Bose earbuds in teal with extended battery life?",
+        "bot_response": "Yes, we offer Bose earbuds in teal with extended battery life. Are you considering a specific price range?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "ColorInquiry": "Teal",
+            "BatteryLifeInquiry": "Extended"
+        }
+    },
+    {
+        "user_message": "Can I find affordable JBL wireless headphones in pink?",
+        "bot_response": "Certainly! We have affordable pink JBL wireless headphones. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "JBL",
+            "ColorInquiry": "Pink",
+            "PriceRangeInquiry": "Affordable",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "What options are there for Sony headphones in a matte finish under $100?",
+        "bot_response": "We have Sony headphones in a matte finish under $100, with good battery life. Are you looking for any specific colors?",
+        "context": {
+            "BrandInquiry": "Sony",
+            "FinishInquiry": "Matte",
+            "PriceRangeInquiry": "<100$"
+        }
+    },
+    {
+        "user_message": "I need wireless earphones in metallic silver from Beats. What's the price range?",
+        "bot_response": "Our Beats wireless earphones in metallic silver are available in different price ranges. Would you like to know about their battery life?",
+        "context": {
+            "BrandInquiry": "Beats",
+            "ColorInquiry": "Metallic Silver",
+            "ConnectivityInquiry": "Wireless"
+        }
+    },
+    {
+        "user_message": "Are there any budget-friendly Panasonic earbuds in vibrant colors?",
+        "bot_response": "Yes, we offer budget-friendly Panasonic earbuds in vibrant colors like blue and green. Interested in the battery life?",
+        "context": {
+            "BrandInquiry": "Panasonic",
+            "ColorInquiry": "Vibrant",
+            "PriceRangeInquiry": "BudgetFriendly"
+        }
+    },
+    {
+        "user_message": "What kind of battery life do Sennheiser headphones in glossy black offer?",
+        "bot_response": "Our Sennheiser headphones in glossy black provide excellent battery life, some models up to 25 hours. Any price preference?",
+        "context": {
+            "BrandInquiry": "Sennheiser",
+            "ColorInquiry": "Glossy Black",
+            "BatteryLifeInquiry": "UpTo25Hours"
+        }
+    },
+    {
+        "user_message": "Can I find Skullcandy headphones in pastel pink with long battery life?",
+        "bot_response": "Certainly! We have pastel pink Skullcandy headphones with long battery life. Are you looking at a specific price range?",
+        "context": {
+            "BrandInquiry": "Skullcandy",
+            "ColorInquiry": "Pastel Pink",
+            "BatteryLifeInquiry": "Long"
+        }
+    },
+    {
+        "user_message": "I'm interested in Bose headphones in navy blue, within a mid-range price.",
+        "bot_response": "We have navy blue Bose headphones available in a mid-range price, with good battery life. Would you like more details?",
+        "context": {
+            "BrandInquiry": "Bose",
+            "ColorInquiry": "Navy Blue",
+            "PriceRangeInquiry": "MidRange"
+        }
+    },
+    {
+        "user_message": "Do you have any wireless earbuds from Sony in coral color?",
+        "bot_response": "Yes, we offer Sony wireless earbuds in coral color. Are you looking for a specific price range or battery life?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Coral", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "What options do I have for JBL headphones in electric blue under $150?",
+        "bot_response": "We have electric blue JBL headphones available for under $150, with various battery life options. Interested?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Electric Blue", "PriceRangeInquiry": "<150$"}
+    },
+    {
+        "user_message": "I need budget-friendly Beats earphones in matte black. What's the battery life?",
+        "bot_response": "Our budget-friendly Beats earphones in matte black offer good battery life, typically around 15 hours. Would you like to know the price?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Matte Black", "PriceRangeInquiry": "BudgetFriendly", "BatteryLifeInquiry": "Around15Hours"}
+    },
+    {
+        "user_message": "Are there any Sennheiser earbuds in pastel shades with long battery life?",
+        "bot_response": "Yes, we have Sennheiser earbuds in pastel shades offering long battery life. Do you have a price range in mind?",
+        "context": {"BrandInquiry": "Sennheiser", "ColorInquiry": "Pastel", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "Can I find Philips headphones in vibrant orange with high battery life?",
+        "bot_response": "Certainly! Philips offers vibrant orange headphones with high battery life. Are you considering a specific price range?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Vibrant Orange", "BatteryLifeInquiry": "High"}
+    },
+    {
+        "user_message": "What's the price range for Bose wireless earphones in glossy finishes?",
+        "bot_response": "Our Bose wireless earphones in glossy finishes are available in different price ranges, with varying battery life. Any specific budget?",
+        "context": {"BrandInquiry": "Bose", "FinishInquiry": "Glossy", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "I'm looking for Skullcandy earbuds in matte silver under $80. What's the battery life like?",
+        "bot_response": "We have Skullcandy earbuds in matte silver under $80 with good battery life, typically around 12 hours. Interested?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Matte Silver", "PriceRangeInquiry": "<80$", "BatteryLifeInquiry": "Around12Hours"}
+    },
+    {
+        "user_message": "Do you have any JBL headphones in lime green with extended battery life?",
+        "bot_response": "Yes, we offer lime green JBL headphones with extended battery life. Are you looking for a specific price range?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Lime Green", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "Can I find affordable Panasonic earphones in burgundy color?",
+        "bot_response": "Certainly! We have affordable Panasonic earphones in burgundy color. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "Panasonic", "ColorInquiry": "Burgundy", "PriceRangeInquiry": "Affordable"}
+    },
+    {
+        "user_message": "What kind of battery life do Sony headphones in teal offer?",
+        "bot_response": "Our teal Sony headphones typically offer a battery life of over 20 hours. Interested in knowing the price range?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Teal", "BatteryLifeInquiry": ">20Hours"}
+    },
+    {
+        "user_message": "I need wireless earbuds from Beats in bright red. What are the options under $100?",
+        "bot_response": "We have bright red Beats wireless earbuds available for under $100, with good battery life. Shall I show you the options?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Bright Red", "PriceRangeInquiry": "<100$", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "Do you have any Sennheiser headphones in charcoal grey with long battery life?",
+        "bot_response": "Yes, our Sennheiser headphones in charcoal grey come with long battery life, up to 22 hours. Any specific price range?",
+        "context": {"BrandInquiry": "Sennheiser", "ColorInquiry": "Charcoal Grey", "BatteryLifeInquiry": "UpTo22Hours"}
+    },
+    {
+        "user_message": "Can I find Skullcandy headphones in pearl white with a mid-range price?",
+        "bot_response": "Certainly, we have Skullcandy headphones in pearl white within a mid-range price, offering good battery life. Interested?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Pearl White", "PriceRangeInquiry": "MidRange"}
+    },
+    {
+        "user_message": "I'm looking for JBL earphones in electric blue with a battery life of over 10 hours. What's the cost?",
+        "bot_response": "Our JBL earphones in electric blue offer over 10 hours of battery life. They are priced around $60. Interested?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Electric Blue", "BatteryLifeInquiry": ">10Hours", "PriceRangeInquiry": "Around60$"}
+    },
+    {
+        "user_message": "Do you have any budget-friendly Beats headphones in vibrant orange?",
+        "bot_response": "Yes, we offer budget-friendly Beats headphones in vibrant orange. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Vibrant Orange", "PriceRangeInquiry": "BudgetFriendly"}
+    },
+    {
+        "user_message": "What are my options for Sony wireless earbuds in matte black under $70?",
+        "bot_response": "We have Sony wireless earbuds in matte black under $70, with varying battery life. Interested in exploring them?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Matte Black", "PriceRangeInquiry": "<70$", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "Can I find Philips headphones in navy blue with a long-lasting battery?",
+        "bot_response": "Absolutely! Our Philips headphones in navy blue come with a long-lasting battery life, typically around 18 hours. Any price range in mind?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Navy Blue", "BatteryLifeInquiry": "Around18Hours"}
+    },
+    {
+        "user_message": "I need budget-friendly earphones from Sennheiser in pastel pink. What's the battery life like?",
+        "bot_response": "We have budget-friendly Sennheiser earphones in pastel pink with good battery life, around 14 hours. Would you like to see the options?",
+        "context": {"BrandInquiry": "Sennheiser", "ColorInquiry": "Pastel Pink", "PriceRangeInquiry": "BudgetFriendly", "BatteryLifeInquiry": "Around14Hours"}
+    },
+    {
+        "user_message": "Are there any wireless JBL headphones in vibrant turquoise under $100?",
+        "bot_response": "Yes, we have wireless JBL headphones in vibrant turquoise for under $100, featuring good battery life. Interested?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Vibrant Turquoise", "PriceRangeInquiry": "<100$", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "What options do I have for Beats earbuds in matte silver with extended battery life?",
+        "bot_response": "Our Beats earbuds in matte silver come with extended battery life, typically up to 24 hours. They're available in different price ranges.",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Matte Silver", "BatteryLifeInquiry": "UpTo24Hours"}
+    },
+    {
+        "user_message": "Can I find any budget-friendly Skullcandy headphones in electric blue?",
+        "bot_response": "Yes, we offer budget-friendly Skullcandy headphones in electric blue. Would you like to know about the battery life?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Electric Blue", "PriceRangeInquiry": "BudgetFriendly"}
+    },
+    {
+        "user_message": "Do you have Philips earbuds in vibrant orange with good battery life?",
+        "bot_response": "We have Philips earbuds in vibrant orange with good battery life, typically around 15 hours. Any specific price range?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Vibrant Orange", "BatteryLifeInquiry": "Around15Hours"}
+    },
+    {
+        "user_message": "What's the price range for Beats wireless headphones in pastel pink?",
+        "bot_response": "Our Beats wireless headphones in pastel pink are available in various price ranges, with different battery life options. Interested?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Pastel Pink", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "I'm looking for Sennheiser headphones in matte black with long battery life. What are the options?",
+        "bot_response": "We have Sennheiser headphones in matte black offering long battery life, with options available in different price ranges. Shall I show you?",
+        "context": {"BrandInquiry": "Sennheiser", "ColorInquiry": "Matte Black", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "Can I find Sony headphones in coral color under $150 with high battery life?",
+        "bot_response": "Certainly! We have Sony headphones in coral color under $150, offering high battery life. Would you like to explore the options?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Coral", "PriceRangeInquiry": "<150$", "BatteryLifeInquiry": "High"}
+    },
+    {
+        "user_message": "Do you have any JBL earbuds in electric blue with extended battery life?",
+        "bot_response": "Yes, our JBL earbuds in electric blue come with extended battery life, typically more than 20 hours. Interested in the price range?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Electric Blue", "BatteryLifeInquiry": ">20Hours"}
+    },
+    {
+        "user_message": "What are my options for Panasonic wireless earphones in glossy black?",
+        "bot_response": "We offer Panasonic wireless earphones in glossy black with various battery life options, available in different price ranges. Any specific budget?",
+        "context": {"BrandInquiry": "Panasonic", "ColorInquiry": "Glossy Black", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "Can I find affordable Skullcandy headphones in vibrant turquoise with good battery life?",
+        "bot_response": "Certainly, we have affordable Skullcandy headphones in vibrant turquoise with good battery life. Interested in the price?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Vibrant Turquoise", "PriceRangeInquiry": "Affordable", "BatteryLifeInquiry": "Good"}
+    },
+    {
+        "user_message": "I need Beats earbuds in matte silver under $100. What's the battery life?",
+        "bot_response": "Our Beats earbuds in matte silver are available for under $100, with a battery life of around 12 hours. Shall I show them to you?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Matte Silver", "PriceRangeInquiry": "<100$", "BatteryLifeInquiry": "Around12Hours"}
+    },
+    {
+        "user_message": "Do you have any JBL headphones in lime green with long battery life?",
+        "bot_response": "Yes, we have JBL headphones in lime green with long battery life, typically over 18 hours. Any specific price range?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Lime Green", "BatteryLifeInquiry": ">18Hours"}
+    },
+    {
+        "user_message": "What's the cost of Philips headphones in vibrant orange with extended battery life?",
+        "bot_response": "Our Philips headphones in vibrant orange with extended battery life are priced around $120. Would you like more details?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Vibrant Orange", "PriceRangeInquiry": "Around120$", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "Can I find Skullcandy earbuds in pearl white with good battery life?",
+        "bot_response": "Yes, we offer Skullcandy earbuds in pearl white with good battery life, typically around 16 hours. Any specific price range?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Pearl White", "BatteryLifeInquiry": "Around16Hours"}
+    },
+    {
+        "user_message": "I'm looking for budget-friendly Sony earphones in matte black. What's the battery life?",
+        "bot_response": "Our budget-friendly Sony earphones in matte black come with a decent battery life of about 14 hours. Interested?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Matte Black", "PriceRangeInquiry": "BudgetFriendly", "BatteryLifeInquiry": "Around14Hours"}
+    },
+    {
+        "user_message": "Do you have Beats headphones in vibrant turquoise with long battery life?",
+        "bot_response": "Yes, we have Beats headphones in vibrant turquoise with long battery life, typically more than 20 hours. Would you like to know the price?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Vibrant Turquoise", "BatteryLifeInquiry": ">20Hours"}
+    },
+    {
+        "user_message": "Can I find JBL wireless earbuds in electric blue under $70?",
+        "bot_response": "Absolutely, we have JBL wireless earbuds in electric blue under $70, with good battery life. Would you like to check them out?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Electric Blue", "PriceRangeInquiry": "<70$", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "What are the options for Philips headphones in glossy black with extended battery life?",
+        "bot_response": "We have Philips headphones in glossy black with extended battery life, available in different price ranges. Interested?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Glossy Black", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "I need Skullcandy earphones in vibrant orange with a long-lasting battery. What's the price?",
+        "bot_response": "Our Skullcandy earphones in vibrant orange come with a long-lasting battery, typically around 18 hours, priced around $50.",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Vibrant Orange", "PriceRangeInquiry": "Around50$", "BatteryLifeInquiry": "Around18Hours"}
+    },
+    {
+        "user_message": "Do you have any budget-friendly Beats earbuds in matte silver?",
+        "bot_response": "Yes, we offer budget-friendly Beats earbuds in matte silver. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Matte Silver", "PriceRangeInquiry": "BudgetFriendly"}
+    },
+    {
+        "user_message": "Can I find Sony headphones in electric blue with high battery life?",
+        "bot_response": "Certainly, we have Sony headphones in electric blue with high battery life, offering up to 24 hours. Interested in the price range?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Electric Blue", "BatteryLifeInquiry": "UpTo24Hours"}
+    },
+    {
+        "user_message": "What's the cost of JBL headphones in pearl white with long battery life?",
+        "bot_response": "Our JBL headphones in pearl white come with long battery life, typically around 20 hours. They're priced around $100.",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Pearl White", "PriceRangeInquiry": "Around100$", "BatteryLifeInquiry": "Around20Hours"}
+    },
+    {
+        "user_message": "I'm looking for Skullcandy wireless earphones in vibrant turquoise. What's the battery life?",
+        "bot_response": "Our Skullcandy wireless earphones in vibrant turquoise offer good battery life, typically around 16 hours. Any specific price range?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Vibrant Turquoise", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "Are there any wireless earphones from Philips in navy blue under $100?",
+        "bot_response": "Yes, we offer Philips wireless earphones in navy blue for under $100. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Navy Blue", "PriceRangeInquiry": "<100$"}
+    },
+    {
+        "user_message": "I'm looking for Beats headphones with a battery life over 15 hours, in a matte finish.",
+        "bot_response": "Our Beats headphones in a matte finish offer over 15 hours of battery life. They are available in different price ranges.",
+        "context": {"BrandInquiry": "Beats", "BatteryLifeInquiry": ">15Hours", "FinishInquiry": "Matte"}
+    },
+    {
+        "user_message": "Can I find any JBL headphones in pearl white, focusing on extended battery life?",
+        "bot_response": "Yes, we have JBL headphones in pearl white with extended battery life. Do you have a specific price range in mind?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Pearl White", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "Do you have any budget-friendly Sony earphones in vibrant green?",
+        "bot_response": "Certainly! We offer budget-friendly Sony earphones in vibrant green. Would you like to know about their battery life and pricing?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Vibrant Green", "PriceRangeInquiry": "BudgetFriendly"}
+    },
+    {
+        "user_message": "What are my options for Skullcandy headphones in electric blue with good battery life?",
+        "bot_response": "We have Skullcandy headphones in electric blue with good battery life. They come in various price options.",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Electric Blue", "BatteryLifeInquiry": "Good"}
+    },
+    {
+        "user_message": "I need wireless earbuds from Harman Kardon in rose gold, preferably under $150.",
+        "bot_response": "We offer Harman Kardon wireless earbuds in rose gold for under $150, with excellent battery life.",
+        "context": {"BrandInquiry": "Harman Kardon", "ColorInquiry": "Rose Gold", "PriceRangeInquiry": "<150$"}
+    },
+    {
+        "user_message": "Are there any Audio-Technica headphones in matte black with a long-lasting battery?",
+        "bot_response": "Yes, our Audio-Technica headphones in matte black are designed for long-lasting battery life. Would you like to know the price range?",
+        "context": {"BrandInquiry": "Audio-Technica", "FinishInquiry": "Matte Black", "BatteryLifeInquiry": "LongLasting"}
+    },
+    {
+        "user_message": "I'm looking for Bose earphones in coral, any with a battery life over 12 hours?",
+        "bot_response": "We have Bose earphones in coral color offering more than 12 hours of battery life. Are you interested in a specific price range?",
+        "context": {"BrandInquiry": "Bose", "ColorInquiry": "Coral", "BatteryLifeInquiry": ">12Hours"}
+    },
+    {
+        "user_message": "Can I find budget-friendly Skullcandy earbuds in turquoise with decent battery life?",
+        "bot_response": "Certainly, we offer budget-friendly Skullcandy earbuds in turquoise with decent battery life. Would you like to explore these options?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Turquoise", "BatteryLifeInquiry": "Decent", "PriceRangeInquiry": "BudgetFriendly"}
+    },
+    {
+        "user_message": "What options do I have for Panasonic headphones in neon yellow, focusing on battery life?",
+        "bot_response": "We have Panasonic headphones in neon yellow with a focus on long battery life. They are available in various price brackets.",
+        "context": {"BrandInquiry": "Panasonic", "ColorInquiry": "Neon Yellow", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "Do you have any JBL earbuds in matte red with an affordable price?",
+        "bot_response": "Yes, we offer JBL earbuds in matte red at an affordable price. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Matte Red", "PriceRangeInquiry": "Affordable"}
+    },
+    {
+        "user_message": "Can I find Beats headphones in bright yellow with a battery life of at least 20 hours?",
+        "bot_response": "Certainly! We have Beats headphones in bright yellow with over 20 hours of battery life. Interested in the pricing?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Bright Yellow", "BatteryLifeInquiry": ">20Hours"}
+    },
+    {
+        "user_message": "Are there any wireless Panasonic headphones in charcoal grey under $120?",
+        "bot_response": "Yes, we have Panasonic wireless headphones in charcoal grey for under $120 with good battery life.",
+        "context": {"BrandInquiry": "Panasonic", "ColorInquiry": "Charcoal Grey", "PriceRangeInquiry": "<120$"}
+    },
+    {
+        "user_message": "I'm interested in Skullcandy earphones in pearl white, focusing on extended battery life.",
+        "bot_response": "We have Skullcandy earphones in pearl white with extended battery life. Do you have a specific price range in mind?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Pearl White", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "Do you stock any Harman Kardon headphones in vibrant orange, preferably with a long battery life?",
+        "bot_response": "Yes, we offer Harman Kardon headphones in vibrant orange with long battery life. Are you looking for a specific price range?",
+        "context": {"BrandInquiry": "Harman Kardon", "ColorInquiry": "Vibrant Orange", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "What are my options for Audio-Technica earbuds in electric blue with a budget under $70?",
+        "bot_response": "We have Audio-Technica earbuds in electric blue available for under $70, with decent battery life.",
+        "context": {"BrandInquiry": "Audio-Technica", "ColorInquiry": "Electric Blue", "PriceRangeInquiry": "<70$"}
+    },
+    {
+        "user_message": "Can I find Bose headphones in sunburst yellow with a focus on ultra-long battery life?",
+        "bot_response": "Absolutely! Our Bose headphones in sunburst yellow are designed for ultra-long battery life. Interested in the price range?",
+        "context": {"BrandInquiry": "Bose", "ColorInquiry": "Sunburst Yellow", "BatteryLifeInquiry": "UltraLong"}
+    },
+    {
+        "user_message": "I need lightweight Sony headphones in pastel pink, ideally with great battery life. What's the cost?",
+        "bot_response": "Our Sony headphones in pastel pink are lightweight and come with great battery life. The cost varies based on the model.",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Pastel Pink", "BatteryLifeInquiry": "Great", "FeatureInquiry": "Lightweight"}
+    },
+    {
+        "user_message": "Are there any affordable JBL headphones in classic black with a decent battery life?",
+        "bot_response": "Certainly, we offer affordable JBL headphones in classic black with decent battery life. Would you like to know the price?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Classic Black", "BatteryLifeInquiry": "Decent", "PriceRangeInquiry": "Affordable"}
+    },
+    {
+        "user_message": "Can I get Skullcandy earphones in neon green, focusing on extended battery life, under $50?",
+        "bot_response": "Yes, we have Skullcandy earphones in neon green with extended battery life for under $50. Interested in checking them out?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Neon Green", "BatteryLifeInquiry": "Extended", "PriceRangeInquiry": "<50$"}
+    },
+    {
+        "user_message": "Do you have any Philips headphones in matte black, focusing on long battery life?",
+        "bot_response": "Yes, we offer Philips headphones in matte black with a focus on long battery life. Do you have a specific budget in mind?",
+        "context": {"BrandInquiry": "Philips", "ColorInquiry": "Matte Black", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "I'm looking for Bose earbuds in coral pink with an affordable price. Any suggestions?",
+        "bot_response": "Certainly, we have Bose earbuds in coral pink that are quite affordable. Would you like to know about their battery life?",
+        "context": {"BrandInquiry": "Bose", "ColorInquiry": "Coral Pink", "PriceRangeInquiry": "Affordable"}
+    },
+    {
+        "user_message": "Can I find any Sennheiser headphones in navy blue with a battery life of more than 12 hours?",
+        "bot_response": "Yes, we have Sennheiser headphones in navy blue offering more than 12 hours of battery life. Interested in the pricing?",
+        "context": {"BrandInquiry": "Sennheiser", "ColorInquiry": "Navy Blue", "BatteryLifeInquiry": ">12Hours"}
+    },
+    {
+        "user_message": "Are there any wireless Panasonic earphones in sunburst yellow, priced under $100?",
+        "bot_response": "We have wireless Panasonic earphones in sunburst yellow for under $100, featuring good battery life.",
+        "context": {"BrandInquiry": "Panasonic", "ColorInquiry": "Sunburst Yellow", "PriceRangeInquiry": "<100$", "ConnectivityInquiry": "Wireless"}
+    },
+    {
+        "user_message": "I'm interested in Skullcandy headphones in vibrant turquoise. What's the battery life like?",
+        "bot_response": "Our vibrant turquoise Skullcandy headphones offer excellent battery life. Are you considering a specific price range?",
+        "context": {"BrandInquiry": "Skullcandy", "ColorInquiry": "Vibrant Turquoise", "BatteryLifeInquiry": "Excellent"}
+    },
+    {
+        "user_message": "Do you stock any Harman Kardon headphones in pastel green with extended battery life?",
+        "bot_response": "Yes, we have Harman Kardon headphones in pastel green with extended battery life. Would you like to know about their price?",
+        "context": {"BrandInquiry": "Harman Kardon", "ColorInquiry": "Pastel Green", "BatteryLifeInquiry": "Extended"}
+    },
+    {
+        "user_message": "Can I find Beats earbuds in pearl white with a budget under $70 and good battery life?",
+        "bot_response": "We offer Beats earbuds in pearl white with good battery life for under $70. Interested in exploring these options?",
+        "context": {"BrandInquiry": "Beats", "ColorInquiry": "Pearl White", "PriceRangeInquiry": "<70$", "BatteryLifeInquiry": "Good"}
+    },
+    {
+        "user_message": "I need lightweight Sony headphones in electric blue, focusing on all-day battery life.",
+        "bot_response": "Our lightweight Sony headphones in electric blue are designed for all-day battery life. Do you have a preferred price range?",
+        "context": {"BrandInquiry": "Sony", "ColorInquiry": "Electric Blue", "BatteryLifeInquiry": "AllDay", "FeatureInquiry": "Lightweight"}
+    },
+    {
+        "user_message": "What options do I have for JBL headphones in matte grey with long battery life, priced around $150?",
+        "bot_response": "We have JBL headphones in matte grey with long battery life, available around the $150 mark. Would you like to take a look?",
+        "context": {"BrandInquiry": "JBL", "ColorInquiry": "Matte Grey", "PriceRangeInquiry": "Around150$", "BatteryLifeInquiry": "Long"}
+    },
+    {
+        "user_message": "Are there any affordable Audio-Technica earphones in neon orange with decent battery life?",
+        "bot_response": "Certainly, we offer affordable Audio-Technica earphones in neon orange with decent battery life. Interested in the price?",
+        "context": {"BrandInquiry": "Audio-Technica", "ColorInquiry": "Neon Orange", "BatteryLifeInquiry": "Decent", "PriceRangeInquiry": "Affordable"}
+    }
+]

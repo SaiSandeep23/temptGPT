@@ -1,0 +1,82 @@
+[
+    {
+        "Product": {
+            "Title": "Boat Rockerz 103 Pro",
+            "Brand": "Boat",
+            "Price": "999/-",
+            "PriceDetails": ["SBI credit Card Offer", "HDFC Debit Card Offer"],
+            "Features": {
+                "NoiseCancellation": true,
+                "WaterAndSweatResistant": true,
+                "TouchControls": true,
+                "BatteryLife": "10hrs/charge",
+                "Specifications": {
+                    "BluetoothVersion": "5.0",
+                    "DriverSize": "6mm, 8mm, 12mm",
+                    "FrequencyRange": "20 Hz - 20,000 Hz",
+                    "Sensitivity": "90 dB/mW, 100 dB/mW",
+                    "ChargingTime": "2.5 hours"
+                }
+            },
+            "Rating": "4*",
+            "PopularityAndTrends": {
+                "Popularity": "Popular among the younger and budget-conscious due to trendy designs and strong bass.",
+                "Trends": "Extensive range of wireless earphones with vibrant designs and bass-heavy sound."
+            },
+            "StockAvailability": "Selling soon (only 5 left)",
+            "CategoriesAndTags": {
+                "Categories": ["Earphones", "Headphones", "Speakers", "Accessories"],
+                "Tags": ["BassHeads", "Sports & Fitness", "Wireless", "Gaming", "Limited Edition", "ANC"]
+            },
+            "UserDemographicsAndPreferences": {
+                "Demographics": "Attracts a younger audience, fashionable, and affordable.",
+                "Preferences": "Stylish designs, strong bass, and wireless features."
+            },
+            "Recommendations": {
+                "Celebrities": ["Cricketers: Jemimah Rodrigues, Hardik Pandya, KL Rahul, Shreyas Iyer"],
+                "Influencers": ["Rashmika Mandanna, Kiara Advani"]
+            },
+            "ProductAssociations": "Boat is under Imagine Marketing Ltd."
+        }
+    },
+    {
+        "Product": {
+            "Title": "JBL Wave Beam",
+            "Brand": "JBL",
+            "Price": "1099/-",
+            "PriceDetails": ["Some offer details"],
+            "Features": {
+                "NoiseCancellation": false,
+                "WaterAndSweatResistant": false,
+                "TouchControls": false,
+                "BatteryLife": "Some battery life",
+                "Specifications": {
+                    "BluetoothVersion": "Another version",
+                    "DriverSize": "Different sizes",
+                    "FrequencyRange": "Different range",
+                    "Sensitivity": "Different sensitivity",
+                    "ChargingTime": "Different time"
+                }
+            },
+            "Rating": "4.5*",
+            "PopularityAndTrends": {
+                "Popularity": "Established brand known for quality and durable products.",
+                "Trends": "Range from budget to premium with a focus on quality sound and wireless technology."
+            },
+            "StockAvailability": "Stock Available",
+            "CategoriesAndTags": {
+                "Categories": ["Earphones/Headphones", "Speakers", "Soundbars", "Professional Audio", "Accessories"],
+                "Tags": ["Wireless", "Waterproof", "PartyBoost", "Voice Assistant Integration", "Durable Build", "Premium Sound"]
+            },
+            "UserDemographicsAndPreferences": {
+                "Demographics": "Attracts a broader audience, known for durability and high-quality audio.",
+                "Preferences": "Balanced audio profile and reliable products."
+            },
+            "Recommendations": {
+                "Celebrities": ["DJ/producer: Martin Garrix, global sensation Doja Cat"],
+                "Influencers": ["The Kid LAROI and Bebe Rexha"]
+            },
+            "ProductAssociations": "JBL is under Harman International, a subsidiary of Samsung Electronics."
+        }
+    }
+]
