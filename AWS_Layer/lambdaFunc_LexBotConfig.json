@@ -1,0 +1,29 @@
+{
+  "botAliasId": "botAliasId",
+  "botId": "botId",
+  "botAliasName": "botAliasName",
+  "botAliasLocaleSettings": {
+    "en_US": {
+      "enabled": true,
+      "codeHookSpecification": {
+        "lambdaCodeHook": {
+          "lambdaARN": "arn:aws:lambda:region:<>:function:processChatInteraction",
+          "codeHookInterfaceVersion": "1.0"
+        }
+      }
+    }
+  },
+  "conversationLogSettings": {
+    "textLogSettings": {
+      "enabled": true,
+      "destination": {
+        "cloudWatch": {
+          "cloudWatchLogGroupArn": "arn:aws:logs:us-east-1:5<>:log-group:/aws/lambda/processChatInteraction"
+        }
+      }
+    }
+  },
+  "sentimentAnalysisSettings": {
+    "detectSentiment": true
+  }
+}
